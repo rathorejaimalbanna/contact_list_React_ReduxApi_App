@@ -3,6 +3,9 @@ Contact Management App
 
 This is a simple contact management application built using React, Redux Toolkit, and React Bootstrap. It allows users to view, add, update, and delete contacts.
 
+Hosted Link:
+https://contact-app-reduxjs.web.app/
+
 Features:
 
 View a list of contacts with their names, email addresses, phone numbers, and cities.
